@@ -65,7 +65,7 @@ const Components = {
             </div>
             <div class="footer-content">
                 <span class="footer-tag">Pronto para transformar seu condomínio?</span>
-                <a href="mailto:contato@trackersaas.com.br" class="footer-title">VAMOS CONVERSAR</a>
+                <div class="footer-title">VAMOS CONVERSAR</div>
 
                 <div class="footer-links">
                     <a href="#" class="footer-link">Instagram</a>
